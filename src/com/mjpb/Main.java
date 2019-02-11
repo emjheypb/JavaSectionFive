@@ -4,13 +4,12 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        ABCDE.isABCDE('O');
-//        ABCDE.isABCDE('A');
+        NumberInWord.printNumberInWord(0);
 
-        DayOfTheWeek.switchDayOfTheWeek(7);
-        DayOfTheWeek.ifDayOfTheWeek(7);
-        DayOfTheWeek.switchDayOfTheWeek(0);
-        DayOfTheWeek.ifDayOfTheWeek(3);
+//        DayOfTheWeek.switchDayOfTheWeek(7);
+//        DayOfTheWeek.ifDayOfTheWeek(7);
+
+//        ABCDE.isABCDE('O');
 
     }
 }
